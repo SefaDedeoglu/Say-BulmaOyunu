@@ -1,0 +1,9 @@
+C:\Users\Sefa Dedeoğlu\source\repos\SayıBulmaOyunu\SayıBulmaOyunu\bin\Debug\SayıBulmaOyunu.exe.config
+C:\Users\Sefa Dedeoğlu\source\repos\SayıBulmaOyunu\SayıBulmaOyunu\bin\Debug\SayıBulmaOyunu.exe
+C:\Users\Sefa Dedeoğlu\source\repos\SayıBulmaOyunu\SayıBulmaOyunu\bin\Debug\SayıBulmaOyunu.pdb
+C:\Users\Sefa Dedeoğlu\source\repos\SayıBulmaOyunu\SayıBulmaOyunu\obj\Debug\SayıBulmaOyunu.csprojAssemblyReference.cache
+C:\Users\Sefa Dedeoğlu\source\repos\SayıBulmaOyunu\SayıBulmaOyunu\obj\Debug\SayıBulmaOyunu.Form1.resources
+C:\Users\Sefa Dedeoğlu\source\repos\SayıBulmaOyunu\SayıBulmaOyunu\obj\Debug\SayıBulmaOyunu.Properties.Resources.resources
+C:\Users\Sefa Dedeoğlu\source\repos\SayıBulmaOyunu\SayıBulmaOyunu\obj\Debug\SayıBulmaOyunu.csproj.GenerateResource.cache
+C:\Users\Sefa Dedeoğlu\source\repos\SayıBulmaOyunu\SayıBulmaOyunu\obj\Debug\SayıBulmaOyunu.exe
+C:\Users\Sefa Dedeoğlu\source\repos\SayıBulmaOyunu\SayıBulmaOyunu\obj\Debug\SayıBulmaOyunu.pdb
